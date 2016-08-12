@@ -7,7 +7,7 @@ Intergration Step:
 
 ### Copy ean13_cantk.js code in to ide.
 
-###
+### Sampe code
 ```javascript
 this.genCode = function(num) {
     var ean = new EAN13(num);
